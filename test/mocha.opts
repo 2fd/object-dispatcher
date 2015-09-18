@@ -1,0 +1,6 @@
+--require chai
+--reporter spec
+--compilers js:mocha-traceur
+--ui bdd
+--colors
+--recursive

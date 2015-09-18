@@ -1,2 +1,4 @@
-# EventDispatcher
-Javascript event-objects dispacher
+# object-dispatcher
+Javascript event-objects dispatcher
+
+## 

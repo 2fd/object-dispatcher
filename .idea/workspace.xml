@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8150d84d-fab0-4cef-b367-cc82a63d8473" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="object-dispatcher.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="object-dispatcher" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4598726">
+      <split-first>
+        <leaf>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.49490836">
+                  <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="DispatcherTest.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/DispatcherTest.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.05498982">
+                  <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test/CallbackSet.js" />
+        <option value="$PROJECT_DIR$/.npmignore" />
+        <option value="$PROJECT_DIR$/test/Dispatcher.js" />
+        <option value="$PROJECT_DIR$/esdoc.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/CallbackSet.js" />
+        <option value="$PROJECT_DIR$/lib/Dispatcher.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/test/mocha.opts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/DispatcherTest.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="object-dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8150d84d-fab0-4cef-b367-cc82a63d8473" name="Default" comment="" />
+      <created>1442584040538</created>
+      <option name="number" value="Default" />
+      <updated>1442584040538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="object-dispatcher" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="object-dispatcher" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6334012">
+          <caret line="918" column="35" selection-start-line="918" selection-start-column="35" selection-end-line="918" selection-end-column="35" />
+          <folding>
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} s ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} encodedURI ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} encodedURIComponent ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} uri ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} uriComponent ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {function} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Object} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} [value] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} propertyName ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Object} o ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} propertyName ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...} [args] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...T|Array.&lt;T&gt;} [items] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} [separator] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {T} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...T} [items] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {Array.&lt;T&gt;} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {T} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [start] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {function} [compareFn] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [start] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...T} [items] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {Array} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param [value] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {boolean} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} year ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} dateString ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...} args ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} date ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} year ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} hour ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} ms ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} min ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} month ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} sec ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} time ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} date ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} year ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} hour ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} ms ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} min ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} month ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} sec ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} value ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {function} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {function} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Arguments} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Object} [thisArg] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Object} [thisArg] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {number} x ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param [value] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [fractionalDigits] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [fractionalDigits] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [precision] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} [radix] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@static ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {boolean} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {boolean} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {boolean} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} [pattern] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} [String] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} [String] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...Number} [chars] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param [value] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} [nameAttribute] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} pos ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {Number} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {...string} [strings] ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} color ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} size ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} searchString ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} searchString ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} href ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {string} that ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {RegExp} regexp ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {RegExp|string} searchValue ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} regexp ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} start ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} separator ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} start ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {Number} start ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@return {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@type {string} ...*/" />
+            <marker date="1439897738000" expanded="true" signature="-1:-1" placeholder="/**@param {} [msg] ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.036659878">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esdoc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15567568">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1442606841562" expanded="true" signature="-1:-1" placeholder="{&quot;title&quot;: &quot;Object event dispatcher&quot;...}" />
+            <marker date="1442606841562" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;mocha&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05672269">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/_mocha">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="20" />
+          <folding>
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Module dependencies. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Save timer references to avoid Sinon interfering (see GH-237). ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Files. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Globals. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Requires. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Images. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: 'mocha'...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Parse list. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Hide the cursor. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Show the cursor. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Stop play()ing. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="/** Play the given array of strings. ...*/" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998359000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/mocha">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11356467">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="/** This tiny wrapper file checks for known node flags and appends them ...*/" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440998351000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/CallbackSet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14663951">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <marker date="1442610834914" expanded="true" signature="-1:-1" placeholder="/** @type {CallbackSet} ...*/" />
+            <marker date="1442610834914" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610834914" expanded="true" signature="-1:-1" placeholder="/** @override ...*/" />
+            <marker date="1442610834914" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Dispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18329939">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @typedef {Function} Constructor ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @type {Dispatcher} ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @constructor ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @type {WeakMap} ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @desc Determine if a given event has listeners. ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @desc Register an event listener with the dispatcher. ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/** @desc Fire an event and call the listeners. ...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1442610946602" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12830958">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20732984">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;object-dispatcher&quot;...}" />
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="{&quot;test&quot;: &quot;mocha&quot;...}" />
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="{&quot;url&quot;: &quot;https://github.com/2fd/object-dispatcher/issues&quot;...}" />
+            <marker date="1442611524178" expanded="true" signature="-1:-1" placeholder="{&quot;babel&quot;: &quot;^5.8.23&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DispatcherTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05498982">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mocha.opts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.091649696">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49490836">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
