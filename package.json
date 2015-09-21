@@ -23,8 +23,6 @@
   "devDependencies": {
     "babel": "^5.8.23",
     "chai": "^3.2.0",
-    "mocha": "^2.3.2",
-    "mocha-traceur": "^2.1.0",
-    "traceur": "0.0.91"
+    "mocha": "^2.3.2"
   }
 }

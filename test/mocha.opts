@@ -1,6 +1,6 @@
 --require chai
 --reporter spec
---compilers js:mocha-traceur
+--compilers js:babel/register
 --ui bdd
 --colors
 --recursive

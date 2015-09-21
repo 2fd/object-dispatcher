@@ -1,8 +1,16 @@
 {
 	"blacklist": [
-		"es6.classes"
-	],
-	"loose": [
-		"es6.modules"
+		"es6.classes",
+		"es6.arrowFunctions",
+		"es6.blockScoping",
+		"es6.constants",
+		"es6.forOf",
+		"es6.objectSuper",
+		"es6.templateLiterals",
+		"flow",
+		"react",
+		"spec.blockScopedFunctions",
+		"spec.functionName",
+		"validation.react"
 	]
 }
