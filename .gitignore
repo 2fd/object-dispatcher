@@ -29,3 +29,5 @@ docseexit
 .idea/
 docs/
 node_modules/
+
+lib/*.js

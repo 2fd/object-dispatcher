@@ -4,7 +4,9 @@
   "description": "Javascript event-objects dispacher",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "prepublish": "npm run compile",
+    "compile": ""
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,5 @@
 --require chai
 --reporter spec
---compilers js:babel/register
 --ui bdd
 --colors
 --recursive

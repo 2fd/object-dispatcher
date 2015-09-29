@@ -1,3 +1,6 @@
 docs/
 node_modules/
-docker/
+
+lib/*.es
+
+.gitignore

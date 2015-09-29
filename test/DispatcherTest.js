@@ -1,6 +1,6 @@
 "use strict";
 
-var { expect } = require('chai');
+var expect = require('chai').expect;
 var Dispatcher = require('../lib/Dispatcher');
 
 /** @test {Dispatcher} */
