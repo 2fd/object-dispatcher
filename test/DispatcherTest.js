@@ -14,20 +14,20 @@ describe('Dispatcher', () => {
     /** @test {Dispatcher#hasListeners} */
     describe('#hasListeners', () => {
 
-        let dispacher = new Dispatcher,
+        let dispatcher = new Dispatcher,
             event = function(){},
             listener = function(){};
 
         it('is a method', () =>
-            expect(dispacher.hasListeners).to.be.a('function')
+            expect(dispatcher.hasListeners).to.be.a('function')
         );
 
         it('determine if a given event has listeners', () => {
 
-            expect(dispacher.hasListeners(event)).to.be.false;
+            expect(dispatcher.hasListeners(event)).to.be.false;
 
-            dispacher.listen(event, listener);
-            expect(dispacher.hasListeners(event)).to.be.true;
+            dispatcher.listen(event, listener);
+            expect(dispatcher.hasListeners(event)).to.be.true;
         });
 
     });
@@ -36,31 +36,31 @@ describe('Dispatcher', () => {
     /** @test {Dispatcher#listen} */
     describe('#listen', () => {
 
-        let dispacher = new Dispatcher,
+        let dispatcher = new Dispatcher,
             event1 = function(){},
             event2 = function(){},
             listener1 = function(){},
             listener2 = function(){};
 
         it('is a method', () =>
-            expect(dispacher.listen).to.be.a('function')
+            expect(dispatcher.listen).to.be.a('function')
         );
 
         it('register an event listener with the dispatcher', () => {
 
-            expect(dispacher.hasListeners(event1)).to.be.false;
-            dispacher.listen(event1, listener1);
-            expect(dispacher.hasListeners(event1)).to.be.true;
+            expect(dispatcher.hasListeners(event1)).to.be.false;
+            dispatcher.listen(event1, listener1);
+            expect(dispatcher.hasListeners(event1)).to.be.true;
 
-            expect(dispacher.hasListeners(event2)).to.be.false;
-            dispacher.listen(event2, [listener1, listener2]);
-            expect(dispacher.hasListeners(event2)).to.be.true;
+            expect(dispatcher.hasListeners(event2)).to.be.false;
+            dispatcher.listen(event2, [listener1, listener2]);
+            expect(dispatcher.hasListeners(event2)).to.be.true;
         });
 
         it('only allows register event constructors', () => {
 
             expect(function tryRegisterNonConstructorEvent( ){
-                dispacher.listen('event_name', listener1);
+                dispatcher.listen('event_name', listener1);
             }).to.throw(TypeError);
 
         });
@@ -68,19 +68,19 @@ describe('Dispatcher', () => {
         it('only allows register callbacks', () => {
 
             expect(function tryRegisterNonFunctionCallback() {
-                dispacher.listen(event1, 'not_function');
+                dispatcher.listen(event1, 'not_function');
             }).to.throw(TypeError);
 
             expect(function tryRegisterEmptyArrayCallback() {
-                dispacher.listen(event1, []);
+                dispatcher.listen(event1, []);
             }).to.throw(TypeError);
 
             expect(function tryRegisterNonFunctionArrayCallback() {
-                dispacher.listen(event1, [ 'not_function' ]);
+                dispatcher.listen(event1, [ 'not_function' ]);
             }).to.throw(TypeError);
 
             expect(function tryRegisterArrayCallbackWithANonFunction() {
-                dispacher.listen(event1, [ listener1, 'not_function' ]);
+                dispatcher.listen(event1, [ listener1, 'not_function' ]);
             }).to.throw(TypeError);
         });
     });
@@ -105,7 +105,7 @@ describe('Dispatcher', () => {
             return (typeof this._data === 'object');
         };
 
-        let dispacher = new Dispatcher,
+        let dispatcher = new Dispatcher,
 
             listener_run = false,
             listener_number = function(event){
@@ -117,13 +117,13 @@ describe('Dispatcher', () => {
             };
 
         it('is a method', () =>
-            expect(dispacher.listen).to.be.a('function')
+            expect(dispatcher.listen).to.be.a('function')
         );
 
         it('fire an event and call the listeners', () => {
 
-            dispacher.listen(ObjectEvent, listener_number);
-            dispacher.fire( new ObjectEvent(5) );
+            dispatcher.listen(ObjectEvent, listener_number);
+            dispatcher.fire( new ObjectEvent(5) );
             expect(listener_run).to.be.true;
         });
 
