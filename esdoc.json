@@ -1,0 +1,9 @@
+{
+  "title": "Object event dispatcher",
+  "source": "./lib",
+  "destination": "./docs/api",
+  "test": {
+    "type": "mocha",
+    "source": "./test"
+  }
+}
